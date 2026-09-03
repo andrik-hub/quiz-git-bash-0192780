@@ -1,0 +1,8 @@
+pwd
+ls
+ls -a
+mkdir
+cd
+touch
+echo
+cat
