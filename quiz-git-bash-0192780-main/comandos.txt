@@ -1,0 +1,10 @@
+pwd
+ls
+ls -a
+mkdir
+cd
+touch
+echo
+cat
+9. git status
+10. git commit

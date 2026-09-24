@@ -1,0 +1,2 @@
+en este quiz se creo la estructura de carpetas y archivos mediante la terminal gitbash y realizando versiones para conectarlo en github
+proceso completado exitosamente agregado commits y archivos adicionales

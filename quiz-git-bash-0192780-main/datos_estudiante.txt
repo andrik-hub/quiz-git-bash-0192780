@@ -1,0 +1,5 @@
+nombre:andrik lobo hernandez
+codigo:0192780
+programa:gitbash
+asignatura:desarrollo de aplic web
+fecha:03/09/2026
