@@ -1,1 +1,0 @@
-aprendi a manejar git bash, crear carpetas, archivos y hacer control de versiones con git y github
